@@ -2,7 +2,7 @@
 
 > The file is a boot file ，for reference only ，please reading ！
 
-- [Php](PHP/readme.md)
+- [Php](Php/readme.md)
 - [Java](Java/readme.md)
 - [Python](Python/readme.md)
 - [Mysql](Mysql/readme.md)
